@@ -33,3 +33,7 @@ div button {
   color: #FFF;
   padding: 1.2rem 3.2rem;
 }
+
+div button:hover {
+  cursor: pointer;
+}
