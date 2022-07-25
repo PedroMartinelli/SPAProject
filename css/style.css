@@ -48,11 +48,19 @@ a {
   color: #C4C4CC;
 }
 
-ul li:nth-child(1) a {
+/* ul li:nth-child(1) a {
+  color: #FFF;
+  font-weight: 700;
+  font-size: 2.4rem;
+} */
+
+.selected {
   color: #FFF;
   font-weight: 700;
   font-size: 2.4rem;
 }
+
+
 
 
 
